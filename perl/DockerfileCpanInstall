@@ -1,0 +1,4 @@
+from perl:v0.1
+
+RUN cpanm JSON
+
